@@ -38,12 +38,12 @@ Researched answer: One can extract a value by doing hashname[:value]. This can b
 
 ## Looking Ahead: Terms for Next Week
 
-1. Class Inheritance:
+1. Class Inheritance: using one or more classes within a class 
 
-2. RSpec:
+2. RSpec: in Ruby, this is when a certain specification must be met in order to run code
 
-3. CRUD:
+3. CRUD: Create, read, update, and delete. This is what software should we doing.
 
-4. Test-driven development:
+4. Test-driven development: a way of developing software in which the development is made into tests which are run in order to see the development
 
-5. HTTP:
+5. HTTP: hypertext transfer protocol. Information that is used to interact with the internet
